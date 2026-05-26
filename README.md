@@ -1,7 +1,7 @@
 
 # Hi there, I'm Athul Manoj! 👋
 
-### 🚀 About Me
+###  About Me
 I am a final-year **Electronics & Communication Engineering** student passionate about **Digital VLSI Design, Hardware Security, and Embedded Systems**. I specialize in developing custom hardware accelerators, implementing cryptographic algorithms on open-source architectures, and working with low-power microcontroller systems.
 
 - 🔭 **Recent Major Project:** Crypto-Enabled Encoder Architecture Accelerated on RISC-V.
