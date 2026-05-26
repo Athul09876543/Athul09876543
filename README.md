@@ -1,4 +1,4 @@
-<--
+
 # Hi there, I'm Athul Manoj! 👋
 
 ### 🚀 About Me
@@ -27,5 +27,4 @@ I am a final-year **Electronics & Communication Engineering** student passionate
 
 
 *“Optimizing silicon, one clock cycle at a time.”*
-- ⚡ Fun fact: ...
--->
+
