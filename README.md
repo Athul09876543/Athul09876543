@@ -18,7 +18,7 @@ I am a final-year **Electronics & Communication Engineering** student passionate
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **HDLs & Verification** | `Verilog`, `SystemVerilog`, `UVM (Universal Verification Methodology)` |
+| **HDLs & Verification** | `Verilog`, `SystemVerilog` |
 | **Architectures & Protocols** | `RISC-V ISA`, `ARM Cortex`, `CAN Bus`, `I2C`, `SPI`, `UART` |
 | **EDA & Simulation Tools** | `ModelSim`, `Vivado`, `Quartus Prime`, `GTKWave`, `EDA Playground` |
 | **Embedded & IoT Platforms** | `ESP32`, `STM32 / ARM`, `Arduino`, `Embedded C` |
